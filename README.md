@@ -1,5 +1,7 @@
 # Lab
 
+> **Note:** This is my capstone project for the **IBM Back-End Development Professional Certificate**. Starting from the course-provided Django skeleton, I implemented the `Concert`, `Photo` and `Song` model fields, the URL routing for the app views, and the view logic for signup, login/logout, songs, photos and the authenticated concerts listing with per-user RSVP status. The instructions below are the original course lab guide.
+
 1.  Clone git repo: `git clone https://github.com/ibm-developer-skills-network/sfvih-Back-end-Development-Capstone.git`
 2.  Get into the directory by `cd sfvih-Back-end-Development-Capstone`
 3.  Get into Django code `cd djangoserver`
